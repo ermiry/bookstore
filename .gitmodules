@@ -1,0 +1,3 @@
+[submodule "bookstore-users-api"]
+	path = bookstore-users-api
+	url = https://github.com/ermiry/bookstore-users-api
