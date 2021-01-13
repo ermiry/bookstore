@@ -1,3 +1,6 @@
 [submodule "bookstore-users-api"]
 	path = bookstore-users-api
 	url = https://github.com/ermiry/bookstore-users-api
+[submodule "bookstore-oauth-api"]
+	path = bookstore-oauth-api
+	url = https://github.com/ermiry/bookstore-oauth-api
